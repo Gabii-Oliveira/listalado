@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(177, 129, 223);
+}
+
+header{
+    background-color: rgb(123, 9, 199);
+    height: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-bottom: 30px;
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    margin-bottom: 30px;
+    text-indent: 40px;
+}
+
+div{
+    display: inline-block;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+#div1{
+    margin-left: 100px;
+}
+
+#div2{
+    margin-left: 300px;
+}
